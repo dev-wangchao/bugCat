@@ -8,7 +8,17 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Maven/Maven_Version1/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaSE/pom.xml" />
+        <option value="$PROJECT_DIR$/Maven/Maven_Parent/pom.xml" />
+        <option value="$PROJECT_DIR$/Maven/Spring_Version1/pom.xml" />
+        <option value="$PROJECT_DIR$/Maven/Util_Version1/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Maven/untitled/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -27,7 +37,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="temurin-1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
